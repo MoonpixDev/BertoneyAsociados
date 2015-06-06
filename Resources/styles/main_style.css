@@ -4,7 +4,7 @@
 
 /*!!!!!!!!BARRA DE NAVEGACIÓN!!!!!!!!!!*/
 /*Esto me resetea el estilo principal de la barra de navegacion*/
-.navbar{background-color: #4784ff;	height: 80px;	margin-bottom: 0;	padding: 0 40px; box-shadow: 0px 1px 50px 5px rgba(0,0,0,0.5);}
+.navbar{background-color: white; height: 80px; margin-bottom: 0; padding: 0 40px; box-shadow: 0px 1px 50px rgba(0,0,0,0.3);}
 /*end*/
 
 /*Esto me resetea la altura del contenedor que engloba todo lo de adentro del nav*/
@@ -12,12 +12,18 @@ nav>.container-fluid{height: 100%; padding: 0;}
 /*end*/
 
 /*Esto me resetea la posicion de la barra de navegacion a la derecha y la altura*/
-ul.nav{float: right;padding: 15px 0;}
+ul.nav{float: right;padding: 15px 0; position: relative; right: 50px}
+/*end*/
+
+/*Separacion de las opciones en la barra de navegacion*/
+ul.nav li{margin: 0px 10px}
 /*end*/
 
 /*Esto me resetea el color de los links de la barra de navegacion*/
-ul.nav a{color: white; transition:all 0.3s ease;}
+ul.nav a{color: #404144; transition:all 0.3s ease;}
 /*end*/
+
+ul.nav a:hover{color: #8f0000}
 
 /*Esto resetea la altura del div donde está el logo*/
 .navbar-brand{height: 100%;}
@@ -32,14 +38,7 @@ ul.nav a{color: white; transition:all 0.3s ease;}
 /*end*/
 
 
-/*EFECTOS TYMPANUS*/
-/* Effect 1: Brackets */
-/* URL: http://tympanus.net/Development/CreativeLinkEffects/ */
-.cl-effect-1 li a::before,.cl-effect-1 li a::after {display: inline-block;opacity: 0; font-size:20px; -webkit-transition: -webkit-transform 0.3s, opacity 0.2s;-moz-transition: -moz-transform 0.3s, opacity 0.2s;transition: transform 0.3s, opacity 0.2s;}
-.cl-effect-1 li a::before {margin-right: 5px;content: '[';	-webkit-transform: translateX(20px);-moz-transform: translateX(20px);transform: translateX(20px);}
-.cl-effect-1 li a::after { margin-left: 5px; content: ']';	-webkit-transform: translateX(-20px); -moz-transform: translateX(-20px);transform: translateX(-20px);}
-.cl-effect-1 a:hover::before,.cl-effect-1 a:hover::after,.cl-effect-1 a:focus::before,.cl-effect-1 a:focus::after {opacity: 1;-webkit-transform: translateX(0px);-moz-transform: translateX(0px);transform: translateX(0px);}
-/*end*/
+
 
 
 

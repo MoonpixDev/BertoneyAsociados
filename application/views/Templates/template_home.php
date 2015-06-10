@@ -1,17 +1,5 @@
 
-		<div id="carousel" class="carousel slide" data-ride="carousel">
-			<div class="carousel-inner" role="listbox">
-			    <div class="item active">
-			        <img src="<?php echo base_url(); ?>/Resources/imgs/1.png" alt="...">
-			    </div>
-				<div class="item">
-					<img src="<?php echo base_url(); ?>/Resources/imgs/2.png" alt="...">
-				</div>
-				<div class="item">
-				    <img src="<?php echo base_url(); ?>/Resources/imgs/3.png" alt="...">
-				</div>
-			</div>
-		</div>
+		
 		<section id="home" class="container-fluid">
 			<header>
 				<div class="row">

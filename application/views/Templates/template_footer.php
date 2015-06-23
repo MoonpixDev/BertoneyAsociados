@@ -1,21 +1,17 @@
-
-		<footer>
-			<div class="container-fluid">
-				<div class="row">
-					<div class="col-md-4">
-						<figure>
-							<img src="<?php echo base_url();?>Resources/imgs/logo_small.png" alt="logo">
-						</figure>
-					</div>
-					<div class="col-md-4">
-						<h5>Integrapp Copyright 2015</h5>
-						<p>Lorem Ipsum Dolor</p>
-					</div>
-					<div class="col-md-4">
-						Developed By Horacio Gutierrez - Gustavo Franco
-					</div>
-				</div>
-			</div>
+<footer class="row">
+			<article class="footer-article">
+				<p>© 2015 Bertone & Asociados | Todos los derechos reservados.</p>
+				<p>Alcyon Web Design</p>
+				<p>INPI. Registro Nº: 2.537.481 - Clase 45</p>
+			</article>
+			<article class="footer-article">
+				<nav>
+					<a href="#"></a>
+					<a href="#"></a>
+					<a href="#"></a>
+				</nav>
+			</article>
 		</footer>
 	</div>
+</body>
 </html>

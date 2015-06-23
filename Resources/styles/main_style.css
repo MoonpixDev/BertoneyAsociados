@@ -1,7 +1,7 @@
 
-html, body, .container-fluid{height: 100%; font-size: 100%}
+html, body, .container-fluid{height: 100%; font-size:100%}
 
-.container-fluid header>.navbar{background-color: white; height: 100px; margin-bottom: 0; padding: 0 140px; box-shadow: 0px 1px 50px rgba(0,0,0,0.2);}
+.container-fluid header>.navbar{background-color: white; height: 100px; margin-bottom: 0; padding: 0 10%; box-shadow: 0px 1px 50px rgba(0,0,0,0.2);}
 .container-fluid header ul.nav{float: right;padding: 25px 0;}
 .container-fluid header ul.nav li{margin: 0px 2.5px}
 .container-fluid header ul.nav a{color: #404144; transition:all 0.3s ease; font-size: 0.8em}
@@ -16,13 +16,13 @@ html, body, .container-fluid{height: 100%; font-size: 100%}
 .container-fluid header .icon-bar{color: black;	background-color: black;}
 
 
-.container-fluid section {height: 100%; }
-.container-fluid section #home{margin-top:110px;height: 100%; width: 100%; padding: 0 140px;}
-.container-fluid section #home>article{position: relative; bottom: 0; width: 100%; margin: auto;text-align: center; top: 65%; letter-spacing: 15px; font-weight: bold;  }
-.container-fluid section #home>article h2{ font-size: 3em; color: #8f0000}
+.container-fluid section {height: auto; min-height: 100% !important }
+.container-fluid section #home{margin-top:140px; height: 100%; width: 100%; padding: 0 10%; position: relative;  }
+.container-fluid section #home>article{position: relative; width: 100%; margin: auto;text-align: center; margin-top: 60%; letter-spacing: 15px; font-weight: bold;  }
+.container-fluid section #home>article h2{ font-size: 3em; color: #8f0000;}
 
-.container-fluid footer{height: 150px; background-color: #333; padding: 25px 140px 10px 140px; color: white; position: relative;}
-.container-fluid footer .footer-article{ position: relative; height: 100%}
+.container-fluid footer{height: auto; background-color: #333; padding: 25px 10% 10px 10%; color: white; position: relative;}
+.container-fluid footer .footer-article{ position: relative; height: 150px}
 .container-fluid footer article:nth-child(1){float: left;}
 .container-fluid footer article:nth-child(2){float: right;}
 .container-fluid footer article p {font-size: 0.75em}
@@ -34,3 +34,15 @@ html, body, .container-fluid{height: 100%; font-size: 100%}
 .container-fluid footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
 .container-fluid footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
 .container-fluid footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+
+
+
+.container-fluid section .start figure:nth-child(1) { position: absolute; right: 12% }
+.container-fluid section .start .firma{float: left; width: 30%; margin-top: 50px; margin-bottom: 50px}
+.container-fluid section .start .mundo	{float: right; width: 20% ; position: relative; top: 80px}
+.container-fluid section .start .mundo>img {width: 100%}
+.container-fluid section .start .firma>img:nth-child(1){width: 60%; float: left;}
+.container-fluid section .start .firma>img:nth-child(2){ width: 40%; float: right;}
+.container-fluid section .start .firma>img:nth-child(3){ width: 50%; opacity: 0.8;}
+.container-fluid section .start h2 {font-size: 3em; margin-bottom: 50px }
+.container-fluid section .start p {font-size: 1.1em; padding: 10px 0px }

@@ -1,48 +1,77 @@
 
-html, body, .container-fluid{height: 100%; font-size:100%}
 
-.container-fluid header>.navbar{background-color: white; height: 100px; margin-bottom: 0; padding: 0 10%; box-shadow: 0px 1px 50px rgba(0,0,0,0.2);}
-.container-fluid header ul.nav{float: right;padding: 25px 0;}
-.container-fluid header ul.nav li{margin: 0px 2.5px}
-.container-fluid header ul.nav a{color: #404144; transition:all 0.3s ease; font-size: 0.8em}
-.container-fluid header ul.nav a:hover{color: #8f0000}
+/*html, body {font-size:100%;}
 
-.container-fluid header .navbar-brand{height: 100%; padding: 0px 0px}
-.container-fluid header .navbar-brand figure{height: 100% !important;}
-.container-fluid header .navbar-brand figure img {transition: all 0.3s ease; height: 100%}
-.container-fluid header .navbar-header{height: 100%;}
-.container-fluid header .navbar-collapse.collapse{height: 100%;}
+body { background: url('../imgs/fondo.png'); background-size: cover; background-position: center center; background-repeat: no-repeat; }
+body> header{height: 100px;}
+body> header>.navbar{background-color: white; height: 100px; margin-bottom: 0; padding: 0 10%; box-shadow: 0px 1px 50px rgba(0,0,0,0.2);}
+body> header ul.nav{float: right;padding: 25px 0;}
+body> ul.nav li{margin: 0px 2.5px}
+body> header ul.nav a{color: #404144; transition:all 0.3s ease; font-size: 0.8em}
+body> header ul.nav a:hover{color: #8f0000}
 
-.container-fluid header .icon-bar{color: black;	background-color: black;}
+body> header .navbar-brand{height: 100%; padding: 0px 0px}
+body> header .navbar-brand figure{height: 100% !important;}
+body> header .navbar-brand figure img {transition: all 0.3s ease; height: 100%}
+body> header .navbar-header{height: 100%;}
+body> header .navbar-collapse.collapse{height: 100%;}
 
-
-.container-fluid section {height: auto; min-height: 100% !important }
-.container-fluid section #home{margin-top:140px; height: 100%; width: 100%; padding: 0 10%; position: relative;  }
-.container-fluid section #home>article{position: relative; width: 100%; margin: auto;text-align: center; margin-top: 60%; letter-spacing: 15px; font-weight: bold;  }
-.container-fluid section #home>article h2{ font-size: 3em; color: #8f0000;}
-
-.container-fluid footer{height: auto; background-color: #333; padding: 25px 10% 10px 10%; color: white; position: relative;}
-.container-fluid footer .footer-article{ position: relative; height: 150px}
-.container-fluid footer article:nth-child(1){float: left;}
-.container-fluid footer article:nth-child(2){float: right;}
-.container-fluid footer article p {font-size: 0.75em}
-.container-fluid footer article p:nth-child(3){position: absolute; bottom: 0}
-.container-fluid footer article a{width: 70px; height: 70px; display: inline-block; margin: 0px 10px}
-.container-fluid footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}
-.container-fluid footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}
-.container-fluid footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}
-.container-fluid footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-.container-fluid footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-.container-fluid footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+body> header .icon-bar{color: black;	background-color: black;}
 
 
+body> section {width: 100%; float: left; position: relative;}
+body> section #home{margin-top:140px; height: 100%; width: 100%; padding: 0 10%; position: relative;  }
+body> section #home>article{position: relative; width: 100%; margin: auto;text-align: center; letter-spacing: 15px; font-weight: bold;  }
+body> section #home>article h2{ font-size: 3em; color: #8f0000;}
+body> section.home{background: transparent !important;}
 
-.container-fluid section .start figure:nth-child(1) { position: absolute; right: 12% }
-.container-fluid section .start .firma{float: left; width: 30%; margin-top: 50px; margin-bottom: 50px}
-.container-fluid section .start .mundo	{float: right; width: 20% ; position: relative; top: 80px}
-.container-fluid section .start .mundo>img {width: 100%}
-.container-fluid section .start .firma>img:nth-child(1){width: 60%; float: left;}
-.container-fluid section .start .firma>img:nth-child(2){ width: 40%; float: right;}
-.container-fluid section .start .firma>img:nth-child(3){ width: 50%; opacity: 0.8;}
-.container-fluid section .start h2 {font-size: 3em; margin-bottom: 50px }
-.container-fluid section .start p {font-size: 1.1em; padding: 10px 0px }
+.clearfix{clear: both;}
+body> footer{height: auto; background-color: #333; padding: 25px 10% 10px 10%; color: white; position: absolute; width: 100%; margin-left: 0px !important}
+body> footer .footer-article{ position: relative; height: 150px}
+body> footer article:nth-child(1){float: left;}
+body> footer article:nth-child(2){float: right;}
+body> footer article p {font-size: 0.75em}
+body> footer article p:nth-child(3){position: absolute; bottom: 0}
+body> footer article a{width: 70px; height: 70px; display: inline-block; margin: 0px 10px}
+body> footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}
+body> footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}
+body> footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}
+body> footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+body> footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+body> footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+
+
+
+body> section .start figure:nth-child(1) { position: absolute; right: 12% }
+body> section .start .firma{float: left; width: 30%; margin-top: 50px; margin-bottom: 50px}
+body> section .start .mundo	{float: right; width: 20% ; position: relative; top: 80px}
+body> section .start .mundo>img {width: 100%}
+body> section .start .firma>img:nth-child(1){width: 60%; float: left;}
+body> section .start .firma>img:nth-child(2){ width: 40%; float: right;}
+body> section .start .firma>img:nth-child(3){ width: 50%; opacity: 0.8;}
+body> section .start h2 {font-size: 3em; margin-bottom: 50px }
+body> section .start p {font-size: 1.1em; padding: 10px 0px }
+
+*/
+
+header, header .navbar, .navbar .navbar-header, .navbar div, .navbar .navbar-header a {height: 100px}
+header{color: white; z-index: 9999;}
+header .navbar { padding: 0px 100px}
+
+
+
+
+
+
+
+.content{margin-top: 100px; z-index: 1;}
+
+
+@media screen and (max-width: 1350px) {
+	header .navbar {padding: 0px 80px}
+
+}
+
+@media screen and (max-width: 800px){
+	header .navbar {padding: 0px 20px}
+}

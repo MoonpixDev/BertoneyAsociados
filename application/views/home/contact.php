@@ -1,3 +1,3 @@
-<section class="row">
-	<article id="home">Contact</article>
+<section class="content">
+	<article class="row">Contact</article>
 </section>

@@ -1,5 +1,5 @@
-<section class="row">
-	<article id="home" class="start">
+<section class="content">
+	<article class="row" class="start">
 		<figure>
 			<img src="<?php echo base_url(); ?>/Resources/imgs/carta.png" alt="carta">
 		</figure>

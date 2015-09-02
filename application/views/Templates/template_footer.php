@@ -1,4 +1,5 @@
-<footer class="row">
+<div class="clearfix"></div>
+<footer class="">
 			<article class="footer-article">
 				<p>© 2015 Bertone & Asociados | Todos los derechos reservados.</p>
 				<p>Alcyon Web Design</p>
@@ -12,6 +13,6 @@
 				</nav>
 			</article>
 		</footer>
-	</div>
+
 </body>
 </html>

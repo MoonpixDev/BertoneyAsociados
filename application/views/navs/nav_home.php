@@ -4,6 +4,7 @@
 				<li><a href="<?php echo base_url(); ?>home/routedhome/news">NOTICIAS</a></li>
 				<li><a href="<?php echo base_url(); ?>home/routedhome/contact">CONTACTO</a></li>
 			     </ul>
+			     
 		 	    </div>
 			  </nav>
 	 	</header>        

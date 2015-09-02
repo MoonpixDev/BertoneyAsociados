@@ -25,16 +25,15 @@
         
         <link rel="icon" href="<?php echo base_url(); ?>Resources/imgs/iconoweb.png" type="image/x-icon">
 
-
+        <link href="<?php echo base_url(); ?>Resources/bootstrap/css/bootstrap.css" rel="stylesheet">
         <link href="<?php echo base_url(); ?>Resources/styles/animate.css" rel="stylesheet">
         <link href="<?php echo base_url(); ?>Resources/fontawesome/css/font-awesome.css" rel="stylesheet">
-        <link href="<?php echo base_url(); ?>Resources/bootstrap/css/bootstrap.css" rel="stylesheet">
         <link href="<?php echo base_url(); ?>Resources/styles/main_style.css" rel="stylesheet">
         <script type="text/javascript" src="<?php echo base_url(); ?>Resources/scripts/modernizr.js"></script>
         <script type="text/javascript" src="<?php echo base_url(); ?>Resources/scripts/jquery.js"></script>
+        <script type="text/javascript" src="<?php echo base_url(); ?>Resources/bootstrap/js/bootstrap.js"></script>
         <script type="text/javascript" src="<?php echo base_url(); ?>Resources/scripts/main_script.js"></script>
         <script type="text/javascript" src="<?php echo base_url(); ?>Resources/scripts/smooth-scroll.js"></script>
-        <script type="text/javascript" src="<?php echo base_url(); ?>Resources/bootstrap/js/bootstrap.js"></script>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
             <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
             <!--[if lt IE 9]>

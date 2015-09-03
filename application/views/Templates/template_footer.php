@@ -8,8 +8,8 @@
 			<article class="footer-article col-md-6 col-lg-6 col-sm-5	 col-xs-12">
 				<nav class="row">
 					<a href="#" class="col-sm-2 col-sm-offset-2 col-md-2 col-ms-offset-2 col-lg-2 col-lg-offset-2 col-xs-2 col-xs-offset-2"></a>
-					<a href="#" class="col-sm-2 col-sm-offset-2 col-md-2 col-ms-offset-2 col-lg-2 col-lg-offset-2 col-xs-2 col--offset-2"></a>
-					<a href="#" class="col-sm-2 col-sm-offset-2 col-md-2 col-ms-offset-2 col-lg-2 col-lg-offset-2 col-xs-2 col--offset-2"></a>
+					<a href="#" class="col-sm-2 col-sm-offset-2 col-md-2 col-ms-offset-2 col-lg-2 col-lg-offset-2 col-xs-2 col-xs-offset-2"></a>
+					<a href="#" class="col-sm-2 col-sm-offset-2 col-md-2 col-ms-offset-2 col-lg-2 col-lg-offset-2 col-xs-2 col-xs-offset-2"></a>
 				</nav>
 			</article>
 			<div class="clearfix"></div>

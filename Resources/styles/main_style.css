@@ -84,22 +84,6 @@ footer article a:nth-child(2):after{content: 'login'; color: white; position: ab
 footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
 
 
-/*footer{height: auto; background-color: #333; padding: 25px 10% 10px 10%; color: white; position: absolute; width: 100%; margin-left: 0px !important}*/
-/*footer .footer-article{ position: relative; height: 150px}*/
-/*footer article:nth-child(1){float: left;}*/
-/*footer article:nth-child(2){float: right;}*/
-/*footer article p {font-size: 0.75em}*/
-/*footer article p:nth-child(3){position: absolute; bottom: 0}*/
-/*footer article a{width: 70px; height: 70px; display: inline-block; margin: 0px 10px}*/
-/*footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}*/
-/*footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}*/
-/*footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}*/
-/*footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}*/
-/*footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}*/
-/*footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}*/
-
-
-
 #home {background: url('../imgs/fondo.png');  background-position: center top;}
 #home>div{position: absolute; bottom: 50px; width: 100%; margin-left: 0px}
 #home>div article{text-align: center; }

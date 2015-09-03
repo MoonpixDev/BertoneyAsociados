@@ -72,9 +72,10 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 .content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative;}
 
 
-footer{padding: 20px 150px; background-color: #333; color: white}
+footer{padding: 20px 150px 10px 150px; background-color: #333; color: white}
 
 .clearfix{clear: both;}
+footer div article:nth-child(1){height: 120px; position: relative;}
 footer article a{width: 70px; height: 70px; }
 footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}
 footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}
@@ -82,7 +83,7 @@ footer article a:nth-child(3){background: url('../imgs/clientes.png');background
 footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: -20px;  width: 100%; text-align: center; left: 0}
 footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: -20px;  width: 100%; text-align: center; left: 0}
 footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: -20px;  width: 100%; text-align: center; left: 0}
-
+footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 
 #home {background: url('../imgs/fondo.png');  background-position: center top;}
 #home>div{position: absolute; bottom: 50px; width: 100%; margin-left: 0px}

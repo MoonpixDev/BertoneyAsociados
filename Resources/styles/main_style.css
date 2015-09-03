@@ -79,9 +79,9 @@ footer article a{width: 70px; height: 70px; }
 footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}
 footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}
 footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}
-footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: -20px;  width: 100%; text-align: center; left: 0}
+footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: -20px;  width: 100%; text-align: center; left: 0}
+footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: -20px;  width: 100%; text-align: center; left: 0}
 
 
 #home {background: url('../imgs/fondo.png');  background-position: center top;}

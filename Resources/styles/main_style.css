@@ -72,20 +72,45 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 .content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative;}
 
 
+footer{padding: 20px 150px; background-color: #333; color: white}
+
+.clearfix{clear: both;}
+footer article a{width: 70px; height: 70px; }
+footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}
+footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}
+footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}
+footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
+
+
+/*footer{height: auto; background-color: #333; padding: 25px 10% 10px 10%; color: white; position: absolute; width: 100%; margin-left: 0px !important}*/
+/*footer .footer-article{ position: relative; height: 150px}*/
+/*footer article:nth-child(1){float: left;}*/
+/*footer article:nth-child(2){float: right;}*/
+/*footer article p {font-size: 0.75em}*/
+/*footer article p:nth-child(3){position: absolute; bottom: 0}*/
+/*footer article a{width: 70px; height: 70px; display: inline-block; margin: 0px 10px}*/
+/*footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}*/
+/*footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}*/
+/*footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}*/
+/*footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}*/
+/*footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}*/
+/*footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}*/
 
 
 
 #home {background: url('../imgs/fondo.png');  background-position: center top;}
 #home>div{position: absolute; bottom: 50px; width: 100%; margin-left: 0px}
 #home>div article{text-align: center; }
-#home>div article h2{font-size: 45px; letter-spacing: 30px; color: #ED1C24; font-weight: bold;}
+#home>div article h2{font-size: 35px; letter-spacing: 30px; color: #ED1C24; font-weight: bold; text-align: center;}
 
 
 
 
 @media screen and (max-width: 1200px) {
 	header .navbar {padding: 0px 80px}
-
+	footer {padding: 20px 80px}
 }
 
 @media screen and (max-width: 970px){
@@ -97,11 +122,20 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 
 
 	.content{margin-top: 80px; min-height: 450px}
+	
+	footer { padding: 20px 60px 20px 20px}
+	
+
+
 }
 
 @media screen and (max-width: 750px){
 	header .navbar {padding: 0px 20px}
 	header .navbar .collapse {top: 0px;}
+	footer article {text-align: center;}
+
 
 	.content{min-height: 350px}
+
+	#home>div article h2{font-size: 25px; font-weight: bold;}
 }

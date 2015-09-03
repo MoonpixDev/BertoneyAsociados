@@ -69,15 +69,16 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 
 
 
-.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat;}
+.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative;}
 
 
 
 
 
 #home {background: url('../imgs/fondo.png');  background-position: center top;}
-
-
+#home>div{position: absolute; bottom: 50px; width: 100%; margin-left: 0px}
+#home>div article{text-align: center; }
+#home>div article h2{font-size: 45px; letter-spacing: 30px; color: #ED1C24; font-weight: bold;}
 
 
 

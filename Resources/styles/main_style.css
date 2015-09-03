@@ -1,63 +1,8 @@
 
-
-/*html, body {font-size:100%;}
-
-body { background: url('../imgs/fondo.png'); background-size: cover; background-position: center center; background-repeat: no-repeat; }
-body> header{height: 100px;}
-body> header>.navbar{background-color: white; height: 100px; margin-bottom: 0; padding: 0 10%; box-shadow: 0px 1px 50px rgba(0,0,0,0.2);}
-body> header ul.nav{float: right;padding: 25px 0;}
-body> ul.nav li{margin: 0px 2.5px}
-body> header ul.nav a{color: #404144; transition:all 0.3s ease; font-size: 0.8em}
-body> header ul.nav a:hover{color: #8f0000}
-
-body> header .navbar-brand{height: 100%; padding: 0px 0px}
-body> header .navbar-brand figure{height: 100% !important;}
-body> header .navbar-brand figure img {transition: all 0.3s ease; height: 100%}
-body> header .navbar-header{height: 100%;}
-body> header .navbar-collapse.collapse{height: 100%;}
-
-body> header .icon-bar{color: black;	background-color: black;}
-
-
-body> section {width: 100%; float: left; position: relative;}
-body> section #home{margin-top:140px; height: 100%; width: 100%; padding: 0 10%; position: relative;  }
-body> section #home>article{position: relative; width: 100%; margin: auto;text-align: center; letter-spacing: 15px; font-weight: bold;  }
-body> section #home>article h2{ font-size: 3em; color: #8f0000;}
-body> section.home{background: transparent !important;}
-
-.clearfix{clear: both;}
-body> footer{height: auto; background-color: #333; padding: 25px 10% 10px 10%; color: white; position: absolute; width: 100%; margin-left: 0px !important}
-body> footer .footer-article{ position: relative; height: 150px}
-body> footer article:nth-child(1){float: left;}
-body> footer article:nth-child(2){float: right;}
-body> footer article p {font-size: 0.75em}
-body> footer article p:nth-child(3){position: absolute; bottom: 0}
-body> footer article a{width: 70px; height: 70px; display: inline-block; margin: 0px 10px}
-body> footer article a:nth-child(1){background: url('../imgs/contacto.png'); background-size: 80px 45px; background-repeat: no-repeat; background-position: center center}
-body> footer article a:nth-child(2){background: url('../imgs/login.png');background-size: 45px 64px;background-position: center center; background-repeat:  no-repeat;}
-body> footer article a:nth-child(3){background: url('../imgs/clientes.png');background-size: 74px 56px;background-position: center center; background-repeat:  no-repeat;}
-body> footer article a:nth-child(1):after{content: 'contacto'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-body> footer article a:nth-child(2):after{content: 'login'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-body> footer article a:nth-child(3):after{content: 'clientes'; color: white; position: absolute; bottom: 20px; margin: auto; width: 70px; text-align: center;}
-
-
-
-body> section .start figure:nth-child(1) { position: absolute; right: 12% }
-body> section .start .firma{float: left; width: 30%; margin-top: 50px; margin-bottom: 50px}
-body> section .start .mundo	{float: right; width: 20% ; position: relative; top: 80px}
-body> section .start .mundo>img {width: 100%}
-body> section .start .firma>img:nth-child(1){width: 60%; float: left;}
-body> section .start .firma>img:nth-child(2){ width: 40%; float: right;}
-body> section .start .firma>img:nth-child(3){ width: 50%; opacity: 0.8;}
-body> section .start h2 {font-size: 3em; margin-bottom: 50px }
-body> section .start p {font-size: 1.1em; padding: 10px 0px }
-
-*/
-
 header {position: fixed; background-color: white;}
 header, header .navbar, .navbar .navbar-header, .navbar .navbar-header a  {height: 100px; transition: all 0.3s ease; z-index: 9999; background-color: white}
 header{color: white; z-index: 9999;}
-header .navbar { padding: 0px 150px}
+header .navbar { padding: 0px 130px}
 header .navbar .collapse {position: relative; top: 20px}
 header .navbar .collapse>ul li a {font-size: 20px; color: black; text-decoration: none; transition: all 0.3s ease;}
 .icon-bar{background-color: black}
@@ -65,15 +10,18 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 .navbar-collapse.in {width: 110%; left: -5%; background-color: white; text-align: center; }
 .navbar-collapse.in ul li {border-top: #999 solid 1px; border-bottom: #999 solid 1px; transition: all 0.3s ease;}
 .navbar-collapse.in ul li:hover{background-color: #999}
-
+.navbar-nav li ul{padding-left: 10px}
+.navbar-collapse.in ul li ul li {border-top: none;}
+.navbar-nav li ul> li{margin-bottom: 5px; }
+.navbar-nav li ul li, .navbar-nav li ul li a{width: 26px; height: 17px}
+.navbar-collapse ul li ul li a{display: block;}
 
 
 
 .content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative;}
 
 
-footer{padding: 20px 150px 10px 150px; background-color: #333; color: white}
-
+footer{padding: 20px 130px 10px 130px; background-color: #333; color: white}
 .clearfix{clear: both;}
 footer div article:nth-child(1){height: 120px; position: relative;}
 footer article a{width: 70px; height: 70px; }
@@ -94,13 +42,13 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 
 
 @media screen and (max-width: 1200px) {
-	header .navbar {padding: 0px 80px}
-	footer {padding: 20px 80px}
+	header .navbar {padding: 0px 60px}
+	footer {padding: 20px 60px}
 }
 
 @media screen and (max-width: 970px){
 	header .navbar {padding: 0px 20px}
-	header .navbar .collapse>ul li a {font-size: 16px}
+	header .navbar .collapse>ul li a {font-size: 15px}
 	header .navbar .collapse {top: 15px;}
 	header, header .navbar, .navbar .navbar-header, .navbar .navbar-header a  {height: 80px}
 	.navbar-nav{margin-top: 0px; margin-bottom: 0px}
@@ -118,7 +66,8 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 	header .navbar {padding: 0px 20px}
 	header .navbar .collapse {top: 0px;}
 	footer article {text-align: center;}
-
+	.navbar-collapse.in ul li ul {padding: 10px 0px}
+	.navbar-collapse.in ul li ul li{display: inline-block;}
 
 	.content{min-height: 350px}
 

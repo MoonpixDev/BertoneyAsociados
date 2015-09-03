@@ -54,24 +54,53 @@ body> section .start p {font-size: 1.1em; padding: 10px 0px }
 
 */
 
-header, header .navbar, .navbar .navbar-header, .navbar div, .navbar .navbar-header a {height: 100px}
+header {position: fixed; background-color: white;}
+header, header .navbar, .navbar .navbar-header, .navbar .navbar-header a  {height: 100px; transition: all 0.3s ease; z-index: 9999; background-color: white}
 header{color: white; z-index: 9999;}
-header .navbar { padding: 0px 100px}
+header .navbar { padding: 0px 150px}
+header .navbar .collapse {position: relative; top: 20px}
+header .navbar .collapse>ul li a {font-size: 20px; color: black; text-decoration: none; transition: all 0.3s ease;}
+.icon-bar{background-color: black}
+header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
+.navbar-collapse.in {width: 110%; left: -5%; background-color: white; text-align: center; }
+.navbar-collapse.in ul li {border-top: #999 solid 1px; border-bottom: #999 solid 1px; transition: all 0.3s ease;}
+.navbar-collapse.in ul li:hover{background-color: #999}
+
+
+
+
+.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat;}
+
+
+
+
+
+#home {background: url('../imgs/fondo.png');  background-position: center top;}
 
 
 
 
 
 
-
-.content{margin-top: 100px; z-index: 1;}
-
-
-@media screen and (max-width: 1350px) {
+@media screen and (max-width: 1200px) {
 	header .navbar {padding: 0px 80px}
 
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 970px){
 	header .navbar {padding: 0px 20px}
+	header .navbar .collapse>ul li a {font-size: 16px}
+	header .navbar .collapse {top: 15px;}
+	header, header .navbar, .navbar .navbar-header, .navbar .navbar-header a  {height: 80px}
+	.navbar-nav{margin-top: 0px; margin-bottom: 0px}
+
+
+	.content{margin-top: 80px; min-height: 450px}
+}
+
+@media screen and (max-width: 750px){
+	header .navbar {padding: 0px 20px}
+	header .navbar .collapse {top: 0px;}
+
+	.content{min-height: 350px}
 }

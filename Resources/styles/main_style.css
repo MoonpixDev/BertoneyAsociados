@@ -15,11 +15,11 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 .navbar-nav li ul> li{margin-bottom: 5px; }
 .navbar-nav li ul li, .navbar-nav li ul li a{width: 26px; height: 17px}
 .navbar-collapse ul li ul li a{display: block;}
+.navbar-right{margin-right: 0}
 
 
-
-.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative;}
-
+.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative; padding: 0px 150px; background-color: black}
+.content>article {margin-left: 0px; background-color: white; padding: 10px 70px}
 
 footer{padding: 20px 130px 10px 130px; background-color: #333; color: white}
 .clearfix{clear: both;}
@@ -34,10 +34,12 @@ footer article a:nth-child(3):after{content: 'clientes'; color: white; position:
 footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 
 #home {background: url('../imgs/fondo.png');  background-position: center top;}
-#home>div{position: absolute; bottom: 50px; width: 100%; margin-left: 0px}
+#home>div{position: absolute; bottom: 50px; width: 80%; margin-left: 0px}
 #home>div article{text-align: center; }
 #home>div article h2{font-size: 35px; letter-spacing: 30px; color: #ED1C24; font-weight: bold; text-align: center;}
 
+
+#start #envelope, #start #mundo {float: right;}
 
 
 

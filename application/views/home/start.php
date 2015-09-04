@@ -1,6 +1,6 @@
-<section class="content">
+<section class="content" id="start">
 	<article class="row" class="start">
-		<figure>
+		<figure id="envelope">
 			<img src="<?php echo base_url(); ?>/Resources/imgs/carta.png" alt="carta">
 		</figure>
 		<h2>A nuestro Lector:</h2>
@@ -12,11 +12,9 @@
 			<p>Por innumerables acuerdos celebrados con Estudios Juridicos del exterior, estamos en condiciones de acompañarlo en cualquier país del mundo, como Persona Física y como Persona Juridica.-</p>
 			<p>Hemos encaminado actividades destinadas a la realización de Proyectos Sociales y nos resultará de gran utilidad vuestra participación.-</p>
 		<figure class="firma">
-			<img src="<?php echo base_url(); ?>/Resources/imgs/firma.png" alt="">
-			<img src="<?php echo base_url(); ?>/Resources/imgs/sello1.png" alt="">
-			<img src="<?php echo base_url(); ?>/Resources/imgs/sello2.png" alt="">
+			<img src="<?php echo base_url(); ?>/Resources/imgs/firmagrupo.png" alt="">
 		</figure>
-		<figure class="mundo">
+		<figure class="mundo" id="mundo">
 			<img src="<?php echo base_url(); ?>/Resources/imgs/mundo.png" alt="">
 		</figure>
 	</article>

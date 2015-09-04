@@ -2,7 +2,7 @@
 	<div class="row">
 			<article class="footer-article col-lg-6 col-md-6 col-sm-7 col-xs-12">
 				<p>© 2015 Bertone & Asociados | Todos los derechos reservados.</p>
-				<p>Alcyon Web Design</p>
+				<p>Moonpix Web Design</p>
 				<p>INPI. Registro Nº: 2.537.481 - Clase 45</p>
 			</article>
 			<article class="footer-article col-md-6 col-lg-6 col-sm-5	 col-xs-12">

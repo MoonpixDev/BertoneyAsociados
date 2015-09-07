@@ -1,3 +1,12 @@
+/*GLOBALS*/
+.red-globe-list{list-style-image: url('../imgs/iconoweb.png'); }
+.black-globe-list{list-style-image: url('../imgs/iconoweb.png');  filter: grayscale(1); -webkit-filter: grayscale(1);}
+.lacre-list{list-style-image: url('../imgs/lacre-list.png'); }
+.none{list-style-type: none;}
+
+/*END*/
+
+
 
 header {position: fixed; background-color: white;}
 header, header .navbar, .navbar .navbar-header, .navbar .navbar-header a  {height: 100px; transition: all 0.3s ease; z-index: 9999; background-color: white}
@@ -50,10 +59,15 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 
 #services {background: url('../../Resources/imgs/trama-relojes.png');}
 #services article {background-color: rgba(255,255,255,0.85); border: #EDD191 4px solid;}
+#services h2{margin: 50px 0; text-align: center; color: red; letter-spacing: 40px}
+#services ul li>ul{margin: 30px 0}
+
+
 
 
 #civil { padding-top: 70px; padding-bottom: 70px}
-
+#civil figure { width: 100px; height: auto; float: right; top: -90px; left: 50px; position: relative;}
+#civil figure img {width: 100%; height: auto}
 
 @media screen and (max-width: 1200px) {
 	header .navbar {padding: 0px 40px}
@@ -70,10 +84,11 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 
 
 	.content{margin-top: 80px; min-height: 450px; padding: 0px 20px}
-	
+	.content>article {padding: 10px 20px}
+
 	footer { padding: 20px 60px 20px 20px}
 	
-
+	
 
 }
 
@@ -85,6 +100,7 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 	.navbar-collapse.in ul li ul li{display: inline-block;}
 
 	.content{min-height: 350px}
+	.content>article {padding: 10px 10px 10px 20px}
 
 	#home>div article h2{font-size: 25px; font-weight: bold;}
 }

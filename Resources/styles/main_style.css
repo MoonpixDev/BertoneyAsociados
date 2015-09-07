@@ -3,7 +3,8 @@
 .black-globe-list{list-style-image: url('../imgs/iconoweb.png');  filter: grayscale(1); -webkit-filter: grayscale(1);}
 .lacre-list{list-style-image: url('../imgs/lacre-list.png'); }
 .none{list-style-type: none;}
-
+.red{color: red}
+.news-container>div{min-height: 300px; background: url('../imgs/pergamino.png'); background-position: center center; background-size: cover; background-repeat: no-repeat; padding: 0 10px; margin: 10px 0}
 /*END*/
 
 

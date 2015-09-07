@@ -807,3 +807,371 @@ INFO - 2015-09-07 15:50:19 --> File loaded: C:\Users\Horacio\Documents\Proyects\
 INFO - 2015-09-07 15:50:19 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
 INFO - 2015-09-07 15:50:19 --> Final output sent to browser
 DEBUG - 2015-09-07 15:50:19 --> Total execution time: 0.2809
+INFO - 2015-09-07 15:52:51 --> Config Class Initialized
+INFO - 2015-09-07 15:52:51 --> Hooks Class Initialized
+DEBUG - 2015-09-07 15:52:51 --> UTF-8 Support Enabled
+INFO - 2015-09-07 15:52:51 --> Utf8 Class Initialized
+INFO - 2015-09-07 15:52:51 --> URI Class Initialized
+INFO - 2015-09-07 15:52:51 --> Router Class Initialized
+INFO - 2015-09-07 15:52:51 --> Output Class Initialized
+INFO - 2015-09-07 15:52:51 --> Security Class Initialized
+DEBUG - 2015-09-07 15:52:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 15:52:51 --> Input Class Initialized
+INFO - 2015-09-07 15:52:51 --> Language Class Initialized
+INFO - 2015-09-07 15:52:51 --> Loader Class Initialized
+INFO - 2015-09-07 15:52:51 --> Helper loaded: url_helper
+INFO - 2015-09-07 15:52:51 --> Database Driver Class Initialized
+INFO - 2015-09-07 15:52:51 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 15:52:51 --> Controller Class Initialized
+INFO - 2015-09-07 15:52:52 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 15:52:52 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 15:52:52 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 15:52:52 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/comercial.php
+INFO - 2015-09-07 15:52:52 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 15:52:52 --> Final output sent to browser
+DEBUG - 2015-09-07 15:52:52 --> Total execution time: 0.2856
+INFO - 2015-09-07 15:53:13 --> Config Class Initialized
+INFO - 2015-09-07 15:53:13 --> Hooks Class Initialized
+DEBUG - 2015-09-07 15:53:13 --> UTF-8 Support Enabled
+INFO - 2015-09-07 15:53:13 --> Utf8 Class Initialized
+INFO - 2015-09-07 15:53:13 --> URI Class Initialized
+INFO - 2015-09-07 15:53:13 --> Router Class Initialized
+INFO - 2015-09-07 15:53:13 --> Output Class Initialized
+INFO - 2015-09-07 15:53:13 --> Security Class Initialized
+DEBUG - 2015-09-07 15:53:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 15:53:13 --> Input Class Initialized
+INFO - 2015-09-07 15:53:13 --> Language Class Initialized
+INFO - 2015-09-07 15:53:13 --> Loader Class Initialized
+INFO - 2015-09-07 15:53:13 --> Helper loaded: url_helper
+INFO - 2015-09-07 15:53:13 --> Database Driver Class Initialized
+INFO - 2015-09-07 15:53:13 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 15:53:13 --> Controller Class Initialized
+INFO - 2015-09-07 15:53:13 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 15:53:13 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 15:53:13 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 15:53:13 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/services.php
+INFO - 2015-09-07 15:53:13 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 15:53:13 --> Final output sent to browser
+DEBUG - 2015-09-07 15:53:13 --> Total execution time: 0.2680
+INFO - 2015-09-07 15:53:18 --> Config Class Initialized
+INFO - 2015-09-07 15:53:18 --> Hooks Class Initialized
+DEBUG - 2015-09-07 15:53:18 --> UTF-8 Support Enabled
+INFO - 2015-09-07 15:53:18 --> Utf8 Class Initialized
+INFO - 2015-09-07 15:53:18 --> URI Class Initialized
+INFO - 2015-09-07 15:53:18 --> Router Class Initialized
+INFO - 2015-09-07 15:53:18 --> Output Class Initialized
+INFO - 2015-09-07 15:53:18 --> Security Class Initialized
+DEBUG - 2015-09-07 15:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 15:53:18 --> Input Class Initialized
+INFO - 2015-09-07 15:53:18 --> Language Class Initialized
+INFO - 2015-09-07 15:53:18 --> Loader Class Initialized
+INFO - 2015-09-07 15:53:18 --> Helper loaded: url_helper
+INFO - 2015-09-07 15:53:18 --> Database Driver Class Initialized
+INFO - 2015-09-07 15:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 15:53:18 --> Controller Class Initialized
+INFO - 2015-09-07 15:53:18 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 15:53:18 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 15:53:18 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 15:53:18 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/comercial.php
+INFO - 2015-09-07 15:53:18 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 15:53:18 --> Final output sent to browser
+DEBUG - 2015-09-07 15:53:18 --> Total execution time: 0.3062
+INFO - 2015-09-07 16:04:49 --> Config Class Initialized
+INFO - 2015-09-07 16:04:49 --> Hooks Class Initialized
+DEBUG - 2015-09-07 16:04:49 --> UTF-8 Support Enabled
+INFO - 2015-09-07 16:04:49 --> Utf8 Class Initialized
+INFO - 2015-09-07 16:04:49 --> URI Class Initialized
+INFO - 2015-09-07 16:04:49 --> Router Class Initialized
+INFO - 2015-09-07 16:04:49 --> Output Class Initialized
+INFO - 2015-09-07 16:04:49 --> Security Class Initialized
+DEBUG - 2015-09-07 16:04:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 16:04:49 --> Input Class Initialized
+INFO - 2015-09-07 16:04:49 --> Language Class Initialized
+INFO - 2015-09-07 16:04:49 --> Loader Class Initialized
+INFO - 2015-09-07 16:04:49 --> Helper loaded: url_helper
+INFO - 2015-09-07 16:04:49 --> Database Driver Class Initialized
+INFO - 2015-09-07 16:04:49 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 16:04:49 --> Controller Class Initialized
+INFO - 2015-09-07 16:04:49 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 16:04:49 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 16:04:49 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 16:04:49 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/comercial.php
+INFO - 2015-09-07 16:04:49 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 16:04:49 --> Final output sent to browser
+DEBUG - 2015-09-07 16:04:49 --> Total execution time: 0.2901
+INFO - 2015-09-07 16:55:21 --> Config Class Initialized
+INFO - 2015-09-07 16:55:21 --> Hooks Class Initialized
+DEBUG - 2015-09-07 16:55:21 --> UTF-8 Support Enabled
+INFO - 2015-09-07 16:55:21 --> Utf8 Class Initialized
+INFO - 2015-09-07 16:55:21 --> URI Class Initialized
+INFO - 2015-09-07 16:55:21 --> Router Class Initialized
+INFO - 2015-09-07 16:55:21 --> Output Class Initialized
+INFO - 2015-09-07 16:55:21 --> Security Class Initialized
+DEBUG - 2015-09-07 16:55:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 16:55:21 --> Input Class Initialized
+INFO - 2015-09-07 16:55:21 --> Language Class Initialized
+INFO - 2015-09-07 16:55:22 --> Loader Class Initialized
+INFO - 2015-09-07 16:55:22 --> Helper loaded: url_helper
+INFO - 2015-09-07 16:55:22 --> Database Driver Class Initialized
+INFO - 2015-09-07 16:55:22 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 16:55:22 --> Controller Class Initialized
+INFO - 2015-09-07 16:55:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 16:55:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 16:55:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 16:55:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/international.php
+INFO - 2015-09-07 16:55:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 16:55:22 --> Final output sent to browser
+DEBUG - 2015-09-07 16:55:22 --> Total execution time: 0.7180
+INFO - 2015-09-07 17:02:55 --> Config Class Initialized
+INFO - 2015-09-07 17:02:55 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:02:55 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:02:55 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:02:56 --> URI Class Initialized
+INFO - 2015-09-07 17:02:56 --> Router Class Initialized
+INFO - 2015-09-07 17:02:56 --> Output Class Initialized
+INFO - 2015-09-07 17:02:56 --> Security Class Initialized
+DEBUG - 2015-09-07 17:02:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:02:56 --> Input Class Initialized
+INFO - 2015-09-07 17:02:56 --> Language Class Initialized
+INFO - 2015-09-07 17:02:56 --> Loader Class Initialized
+INFO - 2015-09-07 17:02:56 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:02:56 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:02:56 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:02:56 --> Controller Class Initialized
+INFO - 2015-09-07 17:02:56 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:02:56 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:02:56 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:02:56 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/international.php
+INFO - 2015-09-07 17:02:56 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:02:56 --> Final output sent to browser
+DEBUG - 2015-09-07 17:02:56 --> Total execution time: 0.2809
+INFO - 2015-09-07 17:10:20 --> Config Class Initialized
+INFO - 2015-09-07 17:10:20 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:10:20 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:10:20 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:10:20 --> URI Class Initialized
+INFO - 2015-09-07 17:10:20 --> Router Class Initialized
+INFO - 2015-09-07 17:10:20 --> Output Class Initialized
+INFO - 2015-09-07 17:10:20 --> Security Class Initialized
+DEBUG - 2015-09-07 17:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:10:20 --> Input Class Initialized
+INFO - 2015-09-07 17:10:20 --> Language Class Initialized
+INFO - 2015-09-07 17:10:20 --> Loader Class Initialized
+INFO - 2015-09-07 17:10:20 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:10:20 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:10:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:10:20 --> Controller Class Initialized
+INFO - 2015-09-07 17:10:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:10:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:10:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:10:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/forms.php
+INFO - 2015-09-07 17:10:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:10:20 --> Final output sent to browser
+DEBUG - 2015-09-07 17:10:20 --> Total execution time: 0.2606
+INFO - 2015-09-07 17:23:20 --> Config Class Initialized
+INFO - 2015-09-07 17:23:20 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:23:20 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:23:20 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:23:20 --> URI Class Initialized
+INFO - 2015-09-07 17:23:20 --> Router Class Initialized
+INFO - 2015-09-07 17:23:20 --> Output Class Initialized
+INFO - 2015-09-07 17:23:20 --> Security Class Initialized
+DEBUG - 2015-09-07 17:23:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:23:20 --> Input Class Initialized
+INFO - 2015-09-07 17:23:20 --> Language Class Initialized
+INFO - 2015-09-07 17:23:20 --> Loader Class Initialized
+INFO - 2015-09-07 17:23:20 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:23:20 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:23:20 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:23:20 --> Controller Class Initialized
+INFO - 2015-09-07 17:23:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:23:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:23:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:23:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/forms.php
+INFO - 2015-09-07 17:23:20 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:23:20 --> Final output sent to browser
+DEBUG - 2015-09-07 17:23:20 --> Total execution time: 0.3863
+INFO - 2015-09-07 17:23:22 --> Config Class Initialized
+INFO - 2015-09-07 17:23:22 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:23:22 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:23:22 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:23:22 --> URI Class Initialized
+INFO - 2015-09-07 17:23:22 --> Router Class Initialized
+INFO - 2015-09-07 17:23:22 --> Output Class Initialized
+INFO - 2015-09-07 17:23:22 --> Security Class Initialized
+DEBUG - 2015-09-07 17:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:23:22 --> Input Class Initialized
+INFO - 2015-09-07 17:23:22 --> Language Class Initialized
+INFO - 2015-09-07 17:23:22 --> Loader Class Initialized
+INFO - 2015-09-07 17:23:22 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:23:22 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:23:22 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:23:22 --> Controller Class Initialized
+INFO - 2015-09-07 17:23:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:23:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:23:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:23:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/consult.php
+INFO - 2015-09-07 17:23:22 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:23:22 --> Final output sent to browser
+DEBUG - 2015-09-07 17:23:22 --> Total execution time: 0.3016
+INFO - 2015-09-07 17:23:48 --> Config Class Initialized
+INFO - 2015-09-07 17:23:48 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:23:48 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:23:48 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:23:48 --> URI Class Initialized
+INFO - 2015-09-07 17:23:48 --> Router Class Initialized
+INFO - 2015-09-07 17:23:48 --> Output Class Initialized
+INFO - 2015-09-07 17:23:48 --> Security Class Initialized
+DEBUG - 2015-09-07 17:23:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:23:48 --> Input Class Initialized
+INFO - 2015-09-07 17:23:48 --> Language Class Initialized
+INFO - 2015-09-07 17:23:48 --> Loader Class Initialized
+INFO - 2015-09-07 17:23:48 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:23:48 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:23:48 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:23:48 --> Controller Class Initialized
+INFO - 2015-09-07 17:23:48 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:23:48 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:23:48 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:23:48 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/consult.php
+INFO - 2015-09-07 17:23:48 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:23:48 --> Final output sent to browser
+DEBUG - 2015-09-07 17:23:48 --> Total execution time: 0.3017
+INFO - 2015-09-07 17:27:44 --> Config Class Initialized
+INFO - 2015-09-07 17:27:44 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:27:44 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:27:44 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:27:44 --> URI Class Initialized
+INFO - 2015-09-07 17:27:44 --> Router Class Initialized
+INFO - 2015-09-07 17:27:44 --> Output Class Initialized
+INFO - 2015-09-07 17:27:44 --> Security Class Initialized
+DEBUG - 2015-09-07 17:27:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:27:44 --> Input Class Initialized
+INFO - 2015-09-07 17:27:44 --> Language Class Initialized
+INFO - 2015-09-07 17:27:44 --> Loader Class Initialized
+INFO - 2015-09-07 17:27:44 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:27:44 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:27:44 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:27:44 --> Controller Class Initialized
+INFO - 2015-09-07 17:27:44 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:27:44 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:27:44 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:27:44 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/news.php
+INFO - 2015-09-07 17:27:44 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:27:44 --> Final output sent to browser
+DEBUG - 2015-09-07 17:27:44 --> Total execution time: 0.3190
+INFO - 2015-09-07 17:28:39 --> Config Class Initialized
+INFO - 2015-09-07 17:28:39 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:28:39 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:28:39 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:28:39 --> URI Class Initialized
+INFO - 2015-09-07 17:28:39 --> Router Class Initialized
+INFO - 2015-09-07 17:28:39 --> Output Class Initialized
+INFO - 2015-09-07 17:28:39 --> Security Class Initialized
+DEBUG - 2015-09-07 17:28:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:28:39 --> Input Class Initialized
+INFO - 2015-09-07 17:28:39 --> Language Class Initialized
+INFO - 2015-09-07 17:28:39 --> Loader Class Initialized
+INFO - 2015-09-07 17:28:39 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:28:39 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:28:39 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:28:39 --> Controller Class Initialized
+INFO - 2015-09-07 17:28:39 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:28:39 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:28:39 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:28:39 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/news.php
+INFO - 2015-09-07 17:28:39 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:28:39 --> Final output sent to browser
+DEBUG - 2015-09-07 17:28:39 --> Total execution time: 0.3537
+INFO - 2015-09-07 17:51:53 --> Config Class Initialized
+INFO - 2015-09-07 17:51:53 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:51:53 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:51:53 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:51:53 --> URI Class Initialized
+INFO - 2015-09-07 17:51:53 --> Router Class Initialized
+INFO - 2015-09-07 17:51:53 --> Output Class Initialized
+INFO - 2015-09-07 17:51:53 --> Security Class Initialized
+DEBUG - 2015-09-07 17:51:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:51:53 --> Input Class Initialized
+INFO - 2015-09-07 17:51:53 --> Language Class Initialized
+INFO - 2015-09-07 17:51:53 --> Loader Class Initialized
+INFO - 2015-09-07 17:51:53 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:51:53 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:51:53 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:51:53 --> Controller Class Initialized
+INFO - 2015-09-07 17:51:53 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:51:53 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:51:53 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:51:53 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/news.php
+INFO - 2015-09-07 17:51:53 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:51:53 --> Final output sent to browser
+DEBUG - 2015-09-07 17:51:53 --> Total execution time: 0.3510
+INFO - 2015-09-07 17:52:45 --> Config Class Initialized
+INFO - 2015-09-07 17:52:45 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:52:45 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:52:45 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:52:45 --> URI Class Initialized
+INFO - 2015-09-07 17:52:45 --> Router Class Initialized
+INFO - 2015-09-07 17:52:45 --> Output Class Initialized
+INFO - 2015-09-07 17:52:45 --> Security Class Initialized
+DEBUG - 2015-09-07 17:52:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:52:45 --> Input Class Initialized
+INFO - 2015-09-07 17:52:45 --> Language Class Initialized
+INFO - 2015-09-07 17:52:45 --> Loader Class Initialized
+INFO - 2015-09-07 17:52:45 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:52:45 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:52:45 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:52:45 --> Controller Class Initialized
+INFO - 2015-09-07 17:52:45 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:52:45 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:52:45 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:52:46 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/news.php
+INFO - 2015-09-07 17:52:46 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:52:46 --> Final output sent to browser
+DEBUG - 2015-09-07 17:52:46 --> Total execution time: 0.2580
+INFO - 2015-09-07 17:52:54 --> Config Class Initialized
+INFO - 2015-09-07 17:52:54 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:52:54 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:52:54 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:52:54 --> URI Class Initialized
+INFO - 2015-09-07 17:52:55 --> Router Class Initialized
+INFO - 2015-09-07 17:52:55 --> Output Class Initialized
+INFO - 2015-09-07 17:52:55 --> Security Class Initialized
+DEBUG - 2015-09-07 17:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:52:55 --> Input Class Initialized
+INFO - 2015-09-07 17:52:55 --> Language Class Initialized
+INFO - 2015-09-07 17:52:55 --> Loader Class Initialized
+INFO - 2015-09-07 17:52:55 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:52:55 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:52:55 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:52:55 --> Controller Class Initialized
+INFO - 2015-09-07 17:52:55 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:52:55 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:52:55 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:52:55 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/news.php
+INFO - 2015-09-07 17:52:55 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:52:55 --> Final output sent to browser
+DEBUG - 2015-09-07 17:52:55 --> Total execution time: 0.2599
+INFO - 2015-09-07 17:58:09 --> Config Class Initialized
+INFO - 2015-09-07 17:58:09 --> Hooks Class Initialized
+DEBUG - 2015-09-07 17:58:09 --> UTF-8 Support Enabled
+INFO - 2015-09-07 17:58:09 --> Utf8 Class Initialized
+INFO - 2015-09-07 17:58:09 --> URI Class Initialized
+INFO - 2015-09-07 17:58:09 --> Router Class Initialized
+INFO - 2015-09-07 17:58:09 --> Output Class Initialized
+INFO - 2015-09-07 17:58:09 --> Security Class Initialized
+DEBUG - 2015-09-07 17:58:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-09-07 17:58:09 --> Input Class Initialized
+INFO - 2015-09-07 17:58:09 --> Language Class Initialized
+INFO - 2015-09-07 17:58:09 --> Loader Class Initialized
+INFO - 2015-09-07 17:58:09 --> Helper loaded: url_helper
+INFO - 2015-09-07 17:58:09 --> Database Driver Class Initialized
+INFO - 2015-09-07 17:58:09 --> Session: Class initialized using 'files' driver.
+INFO - 2015-09-07 17:58:09 --> Controller Class Initialized
+INFO - 2015-09-07 17:58:09 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_header.php
+INFO - 2015-09-07 17:58:09 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_nav.php
+INFO - 2015-09-07 17:58:09 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\navs/nav_home.php
+INFO - 2015-09-07 17:58:09 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\home/news.php
+INFO - 2015-09-07 17:58:09 --> File loaded: C:\Users\Horacio\Documents\Proyects\Beryasoc\application\views\templates/template_footer.php
+INFO - 2015-09-07 17:58:09 --> Final output sent to browser
+DEBUG - 2015-09-07 17:58:09 --> Total execution time: 0.3630

@@ -11,7 +11,7 @@
 			<p>Conforme la necesidad de cada empresa y, a través de su Departamento Financiero Nacional y su Departamento Financiero Internacional, las acompaña para la obtención de financiamiento de sus Proyectos.-</p>
 			<p>Por innumerables acuerdos celebrados con Estudios Juridicos del exterior, estamos en condiciones de acompañarlo en cualquier país del mundo, como Persona Física y como Persona Juridica.-</p>
 			<p>Hemos encaminado actividades destinadas a la realización de Proyectos Sociales y nos resultará de gran utilidad vuestra participación.-</p>
-		<figure class="firma">
+		<figure class="firma" id="firmagrupo">
 			<img src="<?php echo base_url(); ?>/Resources/imgs/firmagrupo.png" alt="">
 		</figure>
 		<figure class="mundo" id="mundo">

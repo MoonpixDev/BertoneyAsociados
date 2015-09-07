@@ -1,4 +1,4 @@
-<section class="content">
+<section class="content" id="news">
 	<article class="row">
 		<h2><span class="red"><strong>NOTICIAS</strong></span></h2>
 		<div class="container-fluid">

@@ -64,7 +64,9 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 #services ul li>ul{margin: 30px 0}
 
 
-
+#contact {background: url('../imgs/stamps.jpg');}
+.contact-image>figure>img, .contact-image>a>figure>img{width: 100%}
+#contact>article>div{margin: 50px 0px}
 
 #civil { padding-top: 70px; padding-bottom: 70px}
 #civil figure { width: 100px; height: auto; float: right; top: -90px; left: 50px; position: relative;}

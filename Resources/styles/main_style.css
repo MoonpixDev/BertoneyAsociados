@@ -81,6 +81,7 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 #civil { padding-top: 70px; padding-bottom: 70px; background: url('../imgs/frame1.png'); background-size: 100% 100%}
 #civil figure { width: 100px; height: auto; float: right; top: -90px; left: 50px; position: relative;}
 #civil figure img {width: 100%; height: auto}
+#civil h2{text-align: center;}
 
 #comercial {background:url('../imgs/frame2.png'); background-size: 12.7% 100%}
 #comercial>article{background-image: url('../imgs/trama-comercio.png'); background-size: cover; background-position: center center; }

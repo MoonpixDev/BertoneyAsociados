@@ -1,9 +1,11 @@
 /*GLOBALS*/
 .red-globe-list{list-style-image: url('../imgs/iconoweb.png'); }
-.black-globe-list{list-style-image: url('../imgs/iconoweb.png');  filter: grayscale(1); -webkit-filter: grayscale(1);}
+.black-globe-list{list-style-image: url('../imgs/iconoweb-black.png');}
 .lacre-list{list-style-image: url('../imgs/lacre-list.png'); }
 .none{list-style-type: none;}
-
+.red{color: red}
+.news-container>div{min-height: 300px; background: url('../imgs/pergamino.png'); background-position: center center; background-size: contain; background-repeat: no-repeat; padding: 0 10px; margin: 10px 0}
+.content>article{min-height: 500px}
 /*END*/
 
 
@@ -17,8 +19,8 @@ header .navbar .collapse>ul li a {font-size: 18px; color: black; text-decoration
 .icon-bar{background-color: black}
 header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 .navbar-collapse.in {width: 110%; left: -5%; background-color: white; text-align: center; }
-.navbar-collapse.in ul li {border-top: #999 solid 1px; border-bottom: #999 solid 1px; transition: all 0.3s ease;}
-.navbar-collapse.in ul li:hover{background-color: #999}
+.navbar-collapse.in>ul>li {border-top: #999 solid 1px; border-bottom: #999 solid 1px; transition: all 0.3s ease;}
+.navbar-collapse.in>ul>li:hover{background-color: #999}
 .navbar-nav li ul{padding-left: 10px}
 .navbar-collapse.in ul li ul li {border-top: none;}
 .navbar-nav li ul> li{margin-bottom: 5px; }
@@ -29,9 +31,15 @@ header .navbar .navbar-header .navbar-toggle {margin-top: 20px}
 .dropdown:hover .dropdown-menu {
 display: block;
 }
+.dropdown .dropdown-menu {padding: 0px; min-width: 200px}
+.dropdown .dropdown-menu li {width: 100%;}
+.dropdown .dropdown-menu li a {background-color: white}
+.navbar-collapse.in .dropdown .dropdown-menu li:hover,.navbar-collapse.in .dropdown .dropdown-menu li a:hover, .navbar-collapse.in .dropdown .dropdown-menu li a {background-color: #999}
+.dropdown .dropdown-menu li a {display: block; width: 100%; text-align: center;}
+header .navbar .collapse>ul li ul li a{font-size: 14px}
 
 
-.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: cover; background-repeat: no-repeat; position: relative; padding: 0px 130px; background-color: black}
+.content{margin-top: 100px; z-index: 1; min-height: 500px; background-size: contain; background-repeat: no-repeat; position: relative; padding: 0px 130px; background-color: black}
 .content>article {margin-left: 0px; margin-right:0px ;background-color: white; padding: 10px 70px}
 
 footer{padding: 20px 130px 10px 130px; background-color: #333; color: white}
@@ -51,7 +59,7 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 #home>div article{text-align: center; }
 #home>div article h2{font-size: 30px; letter-spacing: 30px; color: #ED1C24; font-weight: bold; text-align: center;}
 
-
+#start{background: url('../imgs/frame3.png'); background-size: contain}
 #start #envelope, #start #mundo {float: right;}
 #start #firmagrupo {float: left;}
 #start article h2 {margin-bottom: 70px; margin-top: 20px}
@@ -62,12 +70,30 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 #services h2{margin: 50px 0; text-align: center; color: red; letter-spacing: 40px}
 #services ul li>ul{margin: 30px 0}
 
+#news {background: url('../imgs/old-papers.jpg'); background-size: contain}
+#news article {padding: 5px}
+#news h2 {text-align: center;}
 
+#contact {background: url('../imgs/stamps.jpg');}
+.contact-image>figure>img, .contact-image>a>figure>img{width: 100%}
+#contact>article>div{margin: 50px 0px}
 
-
-#civil { padding-top: 70px; padding-bottom: 70px}
+#civil { padding-top: 70px; padding-bottom: 70px; background: url('../imgs/frame1.png'); background-size: 100% 100%}
 #civil figure { width: 100px; height: auto; float: right; top: -90px; left: 50px; position: relative;}
 #civil figure img {width: 100%; height: auto}
+#civil h2{text-align: center;}
+
+#comercial {background:url('../imgs/frame2.png'); background-size: 12.7% 100%}
+#comercial>article{background-image: url('../imgs/trama-comercio.png'); background-size: cover; background-position: center center; }
+
+#international{background: url('../imgs/trama3.png');  background-size: 12.7% 100% }
+#international>article{background-image: url('../imgs/mundo.png'); background-size: cover; background-position: center center}
+
+
+#forms {background: url('../imgs/frame4.png'); background-size: 12.7% 100%}
+
+#consult{background-color: white}
+
 
 @media screen and (max-width: 1200px) {
 	header .navbar {padding: 0px 40px}
@@ -88,7 +114,16 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 
 	footer { padding: 20px 60px 20px 20px}
 	
-	
+	.navbar-nav .dropdown-menu {
+		position: static;
+		float: none;
+		width: auto;
+		margin-top: 0;
+		background-color: transparent;
+		border:0;
+		box-shadow: none;
+	}
+
 
 }
 
@@ -103,4 +138,9 @@ footer div article:nth-child(1) p:nth-child(3){position: absolute; bottom: 0px}
 	.content>article {padding: 10px 10px 10px 20px}
 
 	#home>div article h2{font-size: 25px; font-weight: bold;}
-}
+
+	#services h2{ letter-spacing: 20px}
+	
+	.content h2{font-style: 20px}
+	.content h3{font-size: 18px}
+}	

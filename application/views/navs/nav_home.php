@@ -1,6 +1,6 @@
 				<li><a href="<?php echo base_url(); ?>home/routedhome/start">INICIO</a></li>
 				<li class="dropdown">
-					<a class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false" href="<?php echo base_url(); ?>home/routedhome/services">SERVICIOS <span class="caret"></span></a>
+					<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" href="<?php echo base_url(); ?>home/routedhome/services">SERVICIOS <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 			            <li><a href="<?php echo base_url(); ?>home/routedhome/civil">Derecho Civil</a></li>
 			            <li role="separator" class="divider"></li>
